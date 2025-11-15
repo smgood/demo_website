@@ -1,2 +1,2 @@
-Personal website used for vision hack 1 workshop.
-https://www.hacker.fund/vh1/
+Personal website used for Hacker Fund workshops.
+https://www.hacker.fund/
